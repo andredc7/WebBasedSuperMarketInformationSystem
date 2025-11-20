@@ -54,11 +54,43 @@ Berikut struktur file utama dari aplikasi:
 
 root/
 │── ng.php # Halaman login
+<img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/015e5070-cf09-4148-867a-674c3d90f90f" />
+
 │── mulek.php # Validasi login
 │── Admin1.php # Menu Casheer untuk Admin
+
+<img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/d1fbd34a-c9ad-4cb5-af77-b6e7e6cf4e27" />
+
+<img width="395" height="223" alt="image" src="https://github.com/user-attachments/assets/26c58086-67d8-46c1-9067-3cc037d4c862" />
+
+<img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/77161bfb-b45f-4fed-acbe-eefdfc4f173f" />
+
+
 │── Admin2.php # Menu Re-Supply Admin
+
+<img width="395" height="223" alt="image" src="https://github.com/user-attachments/assets/6a198725-ac51-439b-a6e4-96c49edb5c0e" />
+
+<img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/83a3443f-0eaa-4339-a4d6-d4e6439494b7" />
+
+<img width="395" height="223" alt="image" src="https://github.com/user-attachments/assets/7b042de7-3bcb-43ab-a749-56ff9a837af9" />
+
+
 │── Admin3.php # Menu View Admin
+
+<img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/9578c195-bdf1-4c7a-9d44-a9263621182b" />
+
+<img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/b062fc4a-7994-4742-9797-b9b520bbad5c" />
+
+<img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/20f28fb9-8dd1-4e92-9cb7-8a79d41dfe1b" />
+
 │── MANAGER.php # Menu Manager
+
+<img width="395" height="223" alt="image" src="https://github.com/user-attachments/assets/67b302e6-48eb-4029-8f2e-0436e4b22569" />
+
+<img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/549e16d5-e1d4-4931-878b-fb68b516b7d5" />
+
+<img width="395" height="223" alt="image" src="https://github.com/user-attachments/assets/1b92082d-ad93-4a82-b36d-82254c737f0b" />
+
 │── mulek1.php # Menu Casheer Staf
 │── connect.php # Koneksi database
 │── assets/ # CSS, JS, Bootstrap, dll.
@@ -144,3 +176,20 @@ Dokumen lengkap terdapat pada file laporan PDF.
 
 Pull request sangat diterima untuk pengembangan lebih lanjut.
 Silakan buat issue baru jika menemukan bug atau ingin menambahkan fitur.
+
+**Link user login**
+https://opensource.petra.ac.id/~m26416068/Genah/ng.php
+
+Username dan password
+
+Admin :
+Username AD001 pass : AD001
+Username AD002 pass : AD002
+
+Manager :
+Username MG001 pass : MG001
+Username MG002 pass : MG002
+
+Staf :
+Username ST001 pass : ST001
+Username ST002 pass : ST002
