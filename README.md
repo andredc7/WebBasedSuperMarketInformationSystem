@@ -54,6 +54,7 @@ Berikut struktur file utama dari aplikasi:
 
 root/
 │── ng.php # Halaman login
+
 <img width="395" height="222" alt="image" src="https://github.com/user-attachments/assets/015e5070-cf09-4148-867a-674c3d90f90f" />
 
 │── mulek.php # Validasi login
@@ -134,7 +135,7 @@ Setiap tabel mempunyai relasi untuk mendukung proses transaksi masuk & keluar, m
 ## 🏁 Cara Instalasi
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/repository-supermarket.git
+   git clone https://github.com/andredc7/repository-supermarket.git
 2. Pindahkan project ke folder htdocs (jika memakai XAMPP) atau folder server lainnya.
 
 3. Import database:
@@ -146,7 +147,7 @@ Setiap tabel mempunyai relasi untuk mendukung proses transaksi masuk & keluar, m
 connect.php
 
 5. Jalankan sistem lewat browser:
-http://localhost/supermarket/
+http://localhost/WebBasedSuperMarketInformationSystem-main/
 
 📊 Hak Akses & Login
 
